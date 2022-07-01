@@ -3,7 +3,7 @@
 - I graduated with a degree in Computer Sciences and Engineering from Sabancı University. (july, 2022)
 - Completed an Internship as a Full-stack Web Developer at Barsan Global Logistics with ASP.NET MVC. 
 Also, i was a member of R&D Deep Learning project team.
-- I am currently working at BatPad Studio as a Game Developer using Unity (C#) and getting familiar with Django back-end as a side project.
+- I am currently working at BatPad Studio as a Game Developer since Jan,2022 using Unity (C#) and getting familiar with Django back-end as a side project.
 - I am interested in Mobile Development, Web Development, Game Development. I am familiar with Flutter and Angular for cross platform apps.
 - As i said, I am interested in Web Development but web development is in the back-burner.
 - The languages that I am most comfortable with are (in order of most to least) C++, C#, python, TypeScript, Dart, JavaScript.
