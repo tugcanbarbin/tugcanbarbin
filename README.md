@@ -10,7 +10,7 @@ Also, i was a member of R&D Deep Learning project team.
 - Although I don't have much knowledge on these fields I am also interested in Blockchain, Automative Testing, Programming language development, OS development and other low level stuff. I hope to get more knowledge in these fields as time goes on.
 - I have familiarity with kali-linux from my Network&Security and CyberSecurity courses.
 Other than coding I am interested in computer games, gym, sports, science and travelling.
-Feel free to reach me out on my email tugcanbarbin1@gmail.com
+- Feel free to reach me out on my email tugcanbarbin1@gmail.com .
 Open for work
 
 <!--
