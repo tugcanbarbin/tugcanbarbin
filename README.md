@@ -4,7 +4,7 @@
 - Completed an Internship as a Full-stack Web Developer at Barsan Global Logistics with ASP.NET MVC. 
 Also, i was a member of R&D Deep Learning project team.
 - I am currently working at BatPad Studio as a Game Developer since Jan,2022 using Unity (C#) and getting familiar with Django back-end as a side project.
-- I am interested in Mobile Development, Web Development, Game Development. I am familiar with Flutter and Angular for cross platform apps.
+- I am interested in Mobile Development, Web Development, Game Development, Artificial Intelligence. I am familiar with Flutter and Angular for cross platform apps.
 - The languages that I am most comfortable with are (in order of most to least) C++, C#, python, TypeScript, Dart, JavaScript.
 - Although I don't have much knowledge on these fields I am also interested in Blockchain, Automative Testing, Programming language development, OS development and other low level stuff. I hope to get more knowledge in these fields as time goes on.
 - I have familiarity with kali-linux from my Network&Security and CyberSecurity courses.
